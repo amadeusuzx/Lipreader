@@ -1,0 +1,6 @@
+framework module Pods_LipLearner_iPad_slides {
+  umbrella header "Pods-LipLearner_iPad_slides-umbrella.h"
+
+  export *
+  module * { export * }
+}
